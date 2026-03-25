@@ -1,0 +1,6 @@
+name: "Build My App"
+
+steps:
+  - name: Run Build Command
+    command: |
+      echo "Hello from BlueGreen!"
